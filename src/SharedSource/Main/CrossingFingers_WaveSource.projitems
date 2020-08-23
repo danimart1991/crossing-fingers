@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>846d34c8-e537-4dc7-b646-cff649ce42e4</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CrossingFingers_Wave</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\DebugSceneBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\ListBoxBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\ListViewBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\MotorBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\PlaySceneBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Behaviors\PlayRouletteSceneBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Colors.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Enums\GameModeEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Enums\GameStateEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Enums\MovementFingersEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Enums\NumberPlayerEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\GameStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Helpers\RouletteHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SimpleSoundService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\ToogleButtonUI.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Movement.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\ButtonUI.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\TouchTransform.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\ListView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Events\ChangedEventArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\FloatExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\MainMenuScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\PlayersPopupScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\PlayGameOverPopupScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\PlayScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\PlayRouletteScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\RulesScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WaveContent.cs" />
+  </ItemGroup>
+</Project>

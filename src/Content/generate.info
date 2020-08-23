@@ -1,0 +1,460 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonMusicOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f25c0ae45149d0f6d917d9ec523dd883</FileHash>
+        <WinfoHash>677d167e00ab86e985654e0592134938</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/HelveticaRounded_16.ttf#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>da4c72c98969474d401d5656b53ec627</FileHash>
+        <WinfoHash>e72cedccbf41a1088a18c72aba2eaf2a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Dm BT_18.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>69809d30314676e53e14ccbeb460747b</FileHash>
+        <WinfoHash>b6bdca0e24321833f584fd3c50c9a7ac</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Dm BT_24.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>69809d30314676e53e14ccbeb460747b</FileHash>
+        <WinfoHash>3994714365b001e4cdbe5f77a96b4f65</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Dm BT_32.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>69809d30314676e53e14ccbeb460747b</FileHash>
+        <WinfoHash>55bfa9eb508a83d01966f1791754d32c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Dm BT_36.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>69809d30314676e53e14ccbeb460747b</FileHash>
+        <WinfoHash>f2af64626c0939516030160561bc0439</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Ult BT_18.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>94b25a4897ed254a95397b384705ab52</FileHash>
+        <WinfoHash>4a08ba1d57a495e9b92dc2b0c454b23e</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Fonts/Kabel Ult BT_24.TTF#WaveEditor.Exporter.Exporters.FontExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>94b25a4897ed254a95397b384705ab52</FileHash>
+        <WinfoHash>9296941625394784217fe9830ab5d6cb</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:\Users\danimart1991\Source\Repos\Crossing Fingers.Wave\Content\Assets\Music\BackgroundMusic.mp3#WaveEditor.Exporter.Exporters.ByPassExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>586e8c394b2d5c5fad7ecfaa04ec6a6e</FileHash>
+        <WinfoHash>ea71c7f45fa5fd473e34575c7ec22f5d</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Button.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5035034b92389b68851f3fac28bddb1b</FileHash>
+        <WinfoHash>18bfd4ae645717f39035264d4ad44195</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Clap.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c6edaea1bb67ea4875ca1af45cdfc221</FileHash>
+        <WinfoHash>4ee986f1bfd90e7d22b1eb4f64e0fb0c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Lose.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d3788df8db7b2340dcc206efc2827a47</FileHash>
+        <WinfoHash>4c50cb771c97c73087b03ad344237711</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Pick.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a4a7040eab696c8dc38abfd2efb6bbcf</FileHash>
+        <WinfoHash>8040e04ecd1c125a77eecc2363ce9770</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Rotating.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>3f6ddfd810176d6dc50592851365f22a</FileHash>
+        <WinfoHash>7842d4e818c06d6e4bed47c8e9f36f23</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Timer.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>bcfe6be5e538115157f7b46538f57d22</FileHash>
+        <WinfoHash>a7f94ef36d6266f82bd4cc8dc8bc996c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Sounds/Win.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5c3bf13266bdb32c76fc61b4acc5a3cb</FileHash>
+        <WinfoHash>0f80e0a0a8ddc77846a68e8be7e54506</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Background.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>fedfbfbb06145a88aef03b01c1695ab2</FileHash>
+        <WinfoHash>dc65a30eb35d6d1d0056c598a007931c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/BackgroundPlayers.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a6bdeec2bb4ae1195b92456cea309c36</FileHash>
+        <WinfoHash>fed52ff0155431f9b1f224ec9095117e</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/BackgroundRules.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>4a22bcb3cf22a031dbacc5082f9371b4</FileHash>
+        <WinfoHash>1a1235c75f2e411e4c9db718fa568d5a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Circle.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>9ed01b5968633522faee0dcb7fb83bc9</FileHash>
+        <WinfoHash>4c56ec506fd9725561523781b43de4ca</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Logo.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f73f16ce2e032a928f2b665ea664b2a1</FileHash>
+        <WinfoHash>ae1779354538786791bc14df10c23197</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/PageShadow.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b5fce1b15275edc82296fe5df14ab045</FileHash>
+        <WinfoHash>2a9a36aca4edc584f801fcd611678195</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Pixel.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>8e3fc2a4895b5e2a7ab0e228b5223955</FileHash>
+        <WinfoHash>c16dd61deefeca9f7db9c49d65bba313</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/PlayGameOverPopupLose.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>29b20c8b21e347e00df621b485e972c2</FileHash>
+        <WinfoHash>0637b63c81043b79bb05a3bb94c01ae8</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/PlayGameOverPopupPlayer1Win.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>246a0026415bde2867672ee5585ebb62</FileHash>
+        <WinfoHash>7815fafd2a261c00aba306d9a47b4f46</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/PlayGameOverPopupPlayer2Win.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>84e82976f8e795deea544855e2ae2efe</FileHash>
+        <WinfoHash>28624300b0c7aed026495ab8078cda0b</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/PlayGameOverPopupWin.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>fc9f273c83d040ee7a67cc6a61a3afdd</FileHash>
+        <WinfoHash>45ab82208b981727e1b76461baf8d0e5</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button1Player.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>994084780ac41ef8a3ae300dac0cbbe6</FileHash>
+        <WinfoHash>8307d96fcc7f5d0ec2d451814e8f2ec3</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button1PlayerOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c0d686bd62116dcae7dc66ab5039e117</FileHash>
+        <WinfoHash>eaddecc674c8afa536bf36a40c3464ef</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button2PlayersBasicPlay.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>72ba2f0580ed819857c1f4d207107465</FileHash>
+        <WinfoHash>eba8a8834e95dd903d7fdde259fbddad</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button2PlayersBasicPlayOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>83beb7a1b816c316c8481f65d258359d</FileHash>
+        <WinfoHash>c2a8ddaf70c3024b7381960d62f42c18</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button2PlayersRoulette.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c1ea164903b0d69bef324830cc91c8a9</FileHash>
+        <WinfoHash>88aaea8e6abe80fe25eb40c2330835f3</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/Button2PlayersRouletteOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>add87039ff12bd4fd3d11a8d105bc8ce</FileHash>
+        <WinfoHash>0e5f3121d4f9c1786fafeba1cb53d86f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonBackCross.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>594808ef3f5f4cfb37df7558d78614b9</FileHash>
+        <WinfoHash>cbf29a3c58e80a0ed2beb08f9e3a0bf0</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonBackCrossOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>334597d16d3cfd9a41cc03e6c5d67f6a</FileHash>
+        <WinfoHash>786af8f51f54d70162b93405ebc55728</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoBack.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e97211b59477165d87d1b9bfc1661247</FileHash>
+        <WinfoHash>ad85f9d96ab84377b4bf529caf7ddd4d</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoBackOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>3f80bb07f4ebe4b74192e81d420ca5bd</FileHash>
+        <WinfoHash>ffa5a69f60c0f08e56ea5a4b00901e0e</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoBasicPlay.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>9db0e6787623c51f6019b49dea1b378e</FileHash>
+        <WinfoHash>d9554dd92061083346ffc24da3cbd758</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoBasicPlayOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5e38da340b78f4b69f6d16ff1feef0fb</FileHash>
+        <WinfoHash>c53fbeac3807ba68d57311af3a0b6b8c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoRoulette.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>2ce6a87bd80f265c93bbd036cc490953</FileHash>
+        <WinfoHash>748bc61e23edfe1d40b5767c4872a75e</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonGoRouletteOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>40ad21031d04d112b05ac32880087c7b</FileHash>
+        <WinfoHash>37328cad2201d3e636e27dc044600b64</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonLeft.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a6b1ee52bd8eec7f1d8605de75f58d6d</FileHash>
+        <WinfoHash>1acd688bc656af1383ad8aba251d21ce</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonLeftDisabled.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>6dce4e3c1dc767020421a7f68e87b394</FileHash>
+        <WinfoHash>72f132c8d8ab1c7a91a140f3f8f88cf2</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonLeftOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>0da1b103839d0beaf5e01a4f913df1e0</FileHash>
+        <WinfoHash>779b682dcd205505680069da7cd210b8</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonPlay.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>4cdc88ca85f23b4037091fe3620df43e</FileHash>
+        <WinfoHash>20683b9d5b7f8dd6cdfca2f95d9609c3</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonPlayAgain.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c8c278b37147135a7f7274be0e0d102a</FileHash>
+        <WinfoHash>de4296b9392de5ce5dd53815095f4c08</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonPlayAgainOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d8dacb0bc0a8583aae4f4806dbac7bc2</FileHash>
+        <WinfoHash>a0176101dbd106078ad3f60c5a40e3d9</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonPlayOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>73ebcf07d4c22ddb22923badf5639115</FileHash>
+        <WinfoHash>033911c9638334ae21d57e575299cc89</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRight.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>52d9a2eabca218a6bae05708b8f9ebd2</FileHash>
+        <WinfoHash>c1cb9182aafa435e4901e08a85a1baac</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRightDisabled.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>08ef1c8ff2166353bfdf673732997700</FileHash>
+        <WinfoHash>2f34c4b1064d42563719adfffed46a73</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRightOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>ac7844a7acc18f87b06fb6196b6dfec2</FileHash>
+        <WinfoHash>6ffaac420c8f22de15e3ed255c291c05</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRoulette.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>de4ec9d710a5d058a656f2c5708d9c1d</FileHash>
+        <WinfoHash>feac565fbab55bf56feeccca1cdbc5af</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRouletteOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>8dcf96d4556a5eed1478f53f62872830</FileHash>
+        <WinfoHash>619be012ee222567b1a471f2ca598b22</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRules.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>327949edc57159bf26bdf761dd1b2da8</FileHash>
+        <WinfoHash>e84874dd7854588022f0d3610147b05d</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ButtonRulesOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a45bf9181566c0e263d3de1e93779f81</FileHash>
+        <WinfoHash>7523be1d8a5d0579e40f3af62894e988</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonAutomaticOff.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>af704c9f7405f595960f0837eab530b8</FileHash>
+        <WinfoHash>91dd2be3dfc330f6b6206228f60e8945</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonAutomaticOn.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d591fad7ccd572ca8467ae87eeda0076</FileHash>
+        <WinfoHash>66b2611c1baafd99f797bf9eb7b85f98</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonAutomaticOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f884d38a2a5ab1647ec9851800528a50</FileHash>
+        <WinfoHash>8f3c04447224d9be86c8cb300b838c9e</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonMusicOff.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>9ec1ab1603e7d49436fb74087f9d546c</FileHash>
+        <WinfoHash>4fb4e309d721a05c6793bb379d965ab1</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonMusicOn.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b2c8f95c3dc1dc5c8258ed39641d81e2</FileHash>
+        <WinfoHash>91f39df92cee35e38299e1e0721210df</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonSoundsOff.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>dd094ad8bcf283d7b9f64523fc5af5d1</FileHash>
+        <WinfoHash>52a6e85d10a2aa0443e6641f34e7c181</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonSoundsOn.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e1f887d0d7aaeee3f70e4ec1f6455b00</FileHash>
+        <WinfoHash>d33fb7229420681ce30c11b242400a33</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Buttons/ToggleButtonSoundsOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f850a9fa5dd61df78794dc97a8e394a7</FileHash>
+        <WinfoHash>4b2cde3b8b8b2d33d1948f9ff1d71b58</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Roulette/Needle.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>96ea728ee263f1ba590726edaabc9cb1</FileHash>
+        <WinfoHash>43dabc48b0c79dc2e8ddf520a25d21e7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Source/Repos/Crossing Fingers.Wave/Content/Assets/Textures/Roulette/Roulette.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>2c3a987b68f8cbbcf11bf5a592b3a7da</FileHash>
+        <WinfoHash>2be3b3a095cdd2ae07d5d31618112c91</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF000506E3</id>
+</GenerateInfo>
